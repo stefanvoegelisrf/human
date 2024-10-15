@@ -10,6 +10,10 @@ export default {
       "pale-purple": "#e3d0d8ff",
       "tomato": "#ef6351ff",
       "emerald": "#61d095ff"
+    },
+    fontFamily: {
+      "sans": ["Lato", "sans-serif"],
+      "serif": ["Prata", "serif"]
     }
   },
   plugins: [],
