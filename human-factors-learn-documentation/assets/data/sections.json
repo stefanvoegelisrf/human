@@ -1,0 +1,11 @@
+{
+    "sections": [
+        {
+            "title": "Laws of UX",
+            "description": "The Laws of UX are principles that guide designers in creating user-friendly, intuitive, and efficient digital experiences based on human behavior and psychology.",
+            "imageUrl": "",
+            "imageAlt": "",
+            "route": "/laws-of-ux"
+        }
+    ]
+}
