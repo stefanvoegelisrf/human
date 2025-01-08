@@ -5,6 +5,7 @@
   - [Mobile](#mobile)
   - [Motivation](#motivation)
   - [Laws of UX](#laws-of-ux)
+  - [Color](#color)
 
 ## What are human factors?
 
@@ -32,3 +33,8 @@ This section covers the motivation of users and how we get to know it.
 This section covers the laws of UX which help to structure content, make interaction easier and more meaningful when designing.
 
 > [Laws of UX](laws-of-ux)
+
+## Color
+This section describes that color in our interfaces should be chosen carefully by taking into account impairments and cultural contexts.
+
+> [Color](color)
