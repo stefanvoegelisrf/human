@@ -8,6 +8,16 @@ There are several "laws" to take into account when desigining interfaces to make
   - [Cognitive load](#cognitive-load)
   - [Doherty Threshold](#doherty-threshold)
   - [Fitt's Law](#fitts-law)
+  - [Flow](#flow)
+  - [Goal Gradient Effect](#goal-gradient-effect)
+  - [Hick's Law](#hicks-law)
+  - [Jakob's Law](#jakobs-law)
+  - [Law of Common Region](#law-of-common-region)
+  - [Law of Proximity](#law-of-proximity)
+  - [Law of Prägnanz](#law-of-prägnanz)
+  - [Law of Similarity](#law-of-similarity)
+  - [Law of Uniform Connectedness](#law-of-uniform-connectedness)
+  - [Mental Model](#mental-model)
 
 
 ## Aesthetic-Usability Effect
@@ -52,3 +62,74 @@ When interaction is too slow between users and a system, the productivity decrea
 
 ## Fitt's Law
 
+This describes how long it takes a user to reach a target. This duration increases with the distance and the size of the target.
+
+- Touch targets should be sized accurately and have good spacing in between
+- Touch targets should be place where they can be easily reached
+
+## Flow
+
+Flow is a mental state where we are fully focused and involved in an activity.
+
+- Flow occurs when difficulty of a task and the skill level are balanced. Allowing us to be in control and focus on the task at hand.
+- When tasks are too easy or too difficult, they can lead to boredom.
+- Indicate progress to the user to the user has feedback on what has been achieved.
+- Optimize interfaces for efficiency to remove friction
+
+## Goal Gradient Effect
+
+The goal gradient effect describes that we work faster towards a goal, the closer we get to it.
+
+- Artificial progress can be provided so that users have more motivation to reach the goal
+
+## Hick's Law
+
+Hick's law describes that it takes us more time to make a decision when we an increased amount and more complex choices.
+
+- When time is critical, reduce the amount of choices.
+- Decrease cognitive load by breaking choices into smaller parts.
+- Highlight recommended options to guide the users.
+- Use progressive onboarding to avoid overloading users.
+- Don't simplify until it gets too abstract
+
+## Jakob's Law
+
+Jakob's law describes that users are accustomed for things to work in a certain way, which they are used from other places, so we should not confuse them with other patterns.
+
+- Users will expect our interface to work like other interfaces that they already know.
+- By applying already known patterns, we can create better experiences instead of users having to learn new patterns.
+- When known patterns are changed, allow users to transition to the new patterns slowly. They can use it the old way for a limited amount of time and should slowly get used to the new way of doing things.
+
+## Law of Common Region
+
+When items are inside clear boundaries, they are perceived to belong together.
+
+- By defining clear boundaries(e.g. borders, background), we can add hierarchy and show the relationship of elements.
+
+## Law of Proximity
+
+Users tend to think that items that are close to each other, belong to each other and they group them.
+
+- Elements that are near to each other are perceived to work the same way and have the same properties
+- Proximity helps to organize content and increase efficiency
+
+## Law of Prägnanz
+
+Users will abstract complex forms to their simplest form possible as it requires less effort.
+
+- The brain likes to simplify as this reduces the chance to get overwhelmed.
+- Simpler shapes are easier to recognize than complex shapes.
+
+## Law of Similarity
+
+When elements look similar, they appear to have a relationship to each other, even if they are separated.
+
+- Color, shape and size are indicators that elements share the same properties, are related to each other or have the same kind of functionality
+
+## Law of Uniform Connectedness
+
+When elements are connected to each other, they appear related.
+
+- Use groups for functions of the same category by using color, lines, frames or other shapes. We can also use line that lead to the next element to show a connection.
+
+## Mental Model
