@@ -6,6 +6,7 @@
   - [Motivation](#motivation)
   - [Laws of UX](#laws-of-ux)
   - [Color](#color)
+  - [Dark patterns](#dark-patterns)
 
 ## What are human factors?
 
@@ -25,16 +26,25 @@ This section covers how users use mobile phones and best practices about mobile 
 > [Mobile](mobile)
 
 ## Motivation
+
 This section covers the motivation of users and how we get to know it.
 
 > [Motivation](motivation)
 
 ## Laws of UX
+
 This section covers the laws of UX which help to structure content, make interaction easier and more meaningful when designing.
 
 > [Laws of UX](laws-of-ux)
 
 ## Color
+
 This section describes that color in our interfaces should be chosen carefully by taking into account impairments and cultural contexts.
 
 > [Color](color)
+
+## Dark patterns
+
+This section describes patterns that are often applied, but are unfriendly to the user.
+
+> [Dark patterns](dark-patterns)
