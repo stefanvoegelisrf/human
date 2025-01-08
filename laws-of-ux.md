@@ -23,6 +23,14 @@ There are several "laws" to take into account when desigining interfaces to make
   - [Paradox of the Active User](#paradox-of-the-active-user)
   - [Pareto Principle](#pareto-principle)
   - [Parkinson's Law](#parkinsons-law)
+  - [Peak-End Rate](#peak-end-rate)
+  - [Postel's Law](#postels-law)
+  - [Selective Attention](#selective-attention)
+  - [Serial Position Effect](#serial-position-effect)
+  - [Tesler's Law](#teslers-law)
+  - [Von Restorff Effect](#von-restorff-effect)
+  - [Working Memory](#working-memory)
+  - [Zeigarnik Effect](#zeigarnik-effect)
 
 
 ## Aesthetic-Usability Effect
@@ -182,3 +190,68 @@ Work tends to take as long as the time you give it.
 - Set a time limit that matches what users expect for the task.
 - Finishing faster than expected makes the experience better for users.
 - Use tools like autofill to save time on forms and help users finish tasks quickly, like making purchases or bookings.
+
+## Peak-End Rate
+
+Users judge an experience on how it felt at its peak or end rather than the overall experience.
+
+- Focus on the peaks or end of the experience to make it positively memorable.
+- Identify when the product is most helpful, valuable or entertaining to delight the user in these momemnts.
+- Negative events are more present than positive ones.
+
+## Postel's Law
+
+Be flexible in what you take in but careful with what you send out.
+
+- Understand and allow for the many ways users might interact with your design.
+- Plan for different inputs and situations while keeping your design easy to use and reliable.
+- Accept a range of user inputs, adapt them to work with your system, set clear rules, and give helpful feedback.
+
+## Selective Attention
+
+We focus mostly on what leads us towards our goal, ignoring other elements.
+
+- People ignore information that is irrelevant for them to reach their current goal. Guide the users and avoid overwhelming them.
+- Elements that are similar to ads tend to be ignored as users have learned to ignore them. E.g. Banners
+
+## Serial Position Effect
+
+First and last elements are remembered the best.
+
+- Items of less importance are best placed in the middle, as they are not memorized that easily.
+- Positioning elements of big importance on the left or right(e.g. navigation) helps users to memorize them.
+
+## Tesler's Law
+
+Tesler's law describes that for any system, there is some kind of complexity which can't be reduced.
+
+- Every system has parts that are naturally complicated, and either the system or the user has to handle them.
+- Design systems to take on as much of the hard work as possible, so it’s easier for users.
+- Don’t assume users will always act logically—design for real people.
+- Provide clear and helpful guidance, like tooltips, to assist users no matter how they navigate your system.
+
+## Von Restorff Effect
+
+The Von Restorff effect says people remember the thing that stands out the most.
+
+- Highlight important information or actions so they’re easy to notice.
+- Avoid overusing attention-grabbing elements, so they don’t compete or look like ads.
+- Don’t rely only on color to show differences—make sure everyone, including those with vision challenges, can see the contrast.
+- Be mindful of users sensitive to motion if using movement to emphasize something.
+
+## Working Memory
+
+Working memory helps us hold and use information briefly to complete tasks, but it’s limited.
+
+- We can only hold 4–7 pieces of information at a time, and they fade after 20–30 seconds.
+- Designers should keep information simple, necessary, and easy to process.
+- People are better at recognizing things they’ve seen than remembering new details. Help users by showing what they’ve already viewed (e.g., visited link colors or breadcrumbs).
+- Let the system remember important details for the user, like carrying data across screens or using comparison tables.
+
+## Zeigarnik Effect
+
+People remember unfinished tasks better than finished ones.
+
+- Use clear hints to encourage users to explore more content.
+- Show progress toward a goal to keep users motivated to finish tasks.
+- Make progress visible so users feel encouraged to complete what they started.
