@@ -7,6 +7,7 @@
   - [Laws of UX](#laws-of-ux)
   - [Color](#color)
   - [Dark patterns](#dark-patterns)
+  - [Communication](#communication)
 
 ## What are human factors?
 
@@ -48,3 +49,9 @@ This section describes that color in our interfaces should be chosen carefully b
 This section describes patterns that are often applied, but are unfriendly to the user.
 
 > [Dark patterns](dark-patterns)
+
+## Communication
+
+This section covers the basics of communcation, how to provide feedback and how to improve communication.
+
+> [Communication](communication)
