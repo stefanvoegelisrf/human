@@ -18,6 +18,11 @@ There are several "laws" to take into account when desigining interfaces to make
   - [Law of Similarity](#law-of-similarity)
   - [Law of Uniform Connectedness](#law-of-uniform-connectedness)
   - [Mental Model](#mental-model)
+  - [Miller's Law](#millers-law)
+  - [Occam's Razor](#occams-razor)
+  - [Paradox of the Active User](#paradox-of-the-active-user)
+  - [Pareto Principle](#pareto-principle)
+  - [Parkinson's Law](#parkinsons-law)
 
 
 ## Aesthetic-Usability Effect
@@ -133,3 +138,47 @@ When elements are connected to each other, they appear related.
 - Use groups for functions of the same category by using color, lines, frames or other shapes. We can also use line that lead to the next element to show a connection.
 
 ## Mental Model
+
+Our brains make a mental model of an how an interface works based on what we know about it.
+
+- When a system is similar to a known system, we apply our already existing model.
+- When we match the mental model of other systems to our system, we help the user to understand it.
+- When we provide an interface that is similar to others, we create good user experiences as the user is already accustomed to a lot of similar interfaces.
+- Mental models are different for different kinds of users. We need to get to know the mental model of our users.
+
+## Miller's Law
+
+Users can keep 7 items in their memory on average.
+
+- Don't focus too heavily on this limitation to create artificial limitation.
+- Organize content into chunks to increase the ability to process information.
+
+## Occam's Razor
+
+When choosing between explanations that work equally well, pick the one that’s simpler.
+
+- The easiest way to keep things simple is to avoid unnecessary complexity from the start.
+- Break things down and remove anything unnecessary, as long as it still works properly.
+- Aim to finish only when there’s nothing left to take away.
+
+## Paradox of the Active User
+
+Users won't start by reading a long documentation or manual, they will start using the interfaces immediately.
+
+- Add guidance throughout the system so that users can discover the functionality and get better over time.
+
+## Pareto Principle
+
+The Pareto principle says that 80% of results often come from just 20% of the work.
+
+- Effort and results aren’t always evenly spread.
+- A small part of the work often creates most of the success.
+- Focus your energy on the tasks that make the biggest impact.
+
+## Parkinson's Law
+
+Work tends to take as long as the time you give it.
+
+- Set a time limit that matches what users expect for the task.
+- Finishing faster than expected makes the experience better for users.
+- Use tools like autofill to save time on forms and help users finish tasks quickly, like making purchases or bookings.
