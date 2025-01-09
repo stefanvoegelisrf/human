@@ -91,3 +91,6 @@ This section cover common ui patterns, minimal viable product, minimal lovable p
 
 ## Accessibility
 
+This section covers why and how we can make interfaces accessible to many different user groups.
+
+> [Accessibility](accessibility)
