@@ -13,24 +13,24 @@ Cognitive psychology studies the basic processes behind different mental abiliti
     - [Micro and Macro](#micro-and-macro)
       - [Tips for Prioritizing Information:](#tips-for-prioritizing-information)
   - [How are stories told and written?](#how-are-stories-told-and-written)
-    - [1. **To win people over, create tension between the "status quo" (how things are now) and a "better way" (how things could be).**](#1-to-win-people-over-create-tension-between-the-status-quo-how-things-are-now-and-a-better-way-how-things-could-be)
-    - [2. **Good fortune stories**](#2-good-fortune-stories)
-    - [3. **Journalism structure**](#3-journalism-structure)
-    - [4. **Academic writing**](#4-academic-writing)
-    - [5. **Web writing**](#5-web-writing)
+    - [1. To win people over, create tension between the "status quo" (how things are now) and a "better way" (how things could be).](#1-to-win-people-over-create-tension-between-the-status-quo-how-things-are-now-and-a-better-way-how-things-could-be)
+    - [2. Good fortune stories](#2-good-fortune-stories)
+    - [3. Journalism structure](#3-journalism-structure)
+    - [4. Academic writing](#4-academic-writing)
+    - [5. Web writing](#5-web-writing)
   - [Mental traps (biases)](#mental-traps-biases)
-    - [1. **Cognitive dissonance**](#1-cognitive-dissonance)
-    - [2. **Spotlight effect**](#2-spotlight-effect)
-    - [3. **Anchoring effect**](#3-anchoring-effect)
-    - [4. **Halo effect**](#4-halo-effect)
-    - [5. **Gambler's Fallacy**](#5-gamblers-fallacy)
-    - [6. **The contrast effect**](#6-the-contrast-effect)
-    - [7. **Confirmation bias**](#7-confirmation-bias)
-    - [8. **Loss aversion bias**](#8-loss-aversion-bias)
-    - [9. **Ambiguity aversion**](#9-ambiguity-aversion)
-    - [10. **Status quo bias**](#10-status-quo-bias)
-    - [11. **Endowment effect**](#11-endowment-effect)
-    - [12. **Omission-commission bias**](#12-omission-commission-bias)
+    - [1. Cognitive dissonance](#1-cognitive-dissonance)
+    - [2. Spotlight effect](#2-spotlight-effect)
+    - [3. Anchoring effect](#3-anchoring-effect)
+    - [4. Halo effect](#4-halo-effect)
+    - [5. Gambler's Fallacy](#5-gamblers-fallacy)
+    - [6. The contrast effect](#6-the-contrast-effect)
+    - [7. Confirmation bias](#7-confirmation-bias)
+    - [8. Loss aversion bias](#8-loss-aversion-bias)
+    - [9. Ambiguity aversion](#9-ambiguity-aversion)
+    - [10. Status quo bias](#10-status-quo-bias)
+    - [11. Endowment effect](#11-endowment-effect)
+    - [12. Omission-commission bias](#12-omission-commission-bias)
 
 
 ---
@@ -107,24 +107,24 @@ By addressing both macro and micro perspectives, you cater to different user nee
 
 ## How are stories told and written?
 
-### 1. **To win people over, create tension between the "status quo" (how things are now) and a "better way" (how things could be).**
+### 1. To win people over, create tension between the "status quo" (how things are now) and a "better way" (how things could be).
    - **Why?** People are drawn to stories where there’s a problem (the status quo) and a solution (the better way). The tension between these two keeps them engaged and makes them care about the outcome.
    - **Example:** "We used to believe X, but then Y happened, and we discovered Z, which is so much better."
 
-### 2. **Good fortune stories**  
+### 2. Good fortune stories 
    - These stories often follow this pattern:  
      1. **We thought this was the solution** – At first, we believed we had the answer.  
      2. **We were wrong** – Something didn’t work, or an unexpected twist occurred.  
      3. **We found something better** – Here’s the improved solution or insight we discovered.  
    - **Example:** "We thought success was about working harder, but then we realized working smarter was the real key!"
 
-### 3. **Journalism structure**  
+### 3. Journalism structure
    - **The lead** – The most important information goes here (Who? What? When? Where? Why? How?).  
    - **The body** – The details and context that help explain the story.  
    - **The tail** – Extra information or background that’s less critical but still interesting if you want to dive deeper.  
    - **Why this structure?** It ensures readers get the essential facts quickly, even if they don’t finish reading.
 
-### 4. **Academic writing**  
+### 4. Academic writing
    - Academic papers have a standard format:  
      1. **Introduction** – What question or problem is being studied? Why does it matter?  
      2. **Methods** – How was the research conducted?  
@@ -132,7 +132,7 @@ By addressing both macro and micro perspectives, you cater to different user nee
      4. **Discussion** – What do the results mean? How do they fit into the bigger picture?  
    - **Why this structure?** It makes research clear and easy to follow for others.
 
-### 5. **Web writing**  
+### 5. Web writing
    - For online content, use this order of importance:  
      1. **Most important info** – Put the key points up front.  
      2. **Important info** – Add supporting details.  
@@ -148,50 +148,50 @@ Our brain fills in gaps with limited information, which can lead to false conclu
 
 ---
 
-### 1. **Cognitive dissonance**  
+### 1. Cognitive dissonance
    - **What is it?** Holding two conflicting beliefs causes mental stress, discomfort, and anxiety.  
    - **Example:** Believing in healthy living but smoking at the same time creates inner conflict.
 
-### 2. **Spotlight effect**  
+### 2. Spotlight effect
    - **What is it?** We think others are paying more attention to us than they actually are.  
    - **Example:** You think everyone notices a small mistake, but most people didn’t even notice it.
 
-### 3. **Anchoring effect**  
+### 3. Anchoring effect
    - **What is it?** We rely too much on the first piece of information (anchor) to make decisions, even when it’s unnecessary.  
    - **Example:** Seeing a high price for something makes you think a lower price is a good deal, even if it’s still expensive.
 
-### 4. **Halo effect**  
+### 4. Halo effect
    - **What is it?** The first impression of someone or something influences how we see everything about them.  
    - **Example:** A person who is attractive might be assumed to be more intelligent, even without evidence.
 
-### 5. **Gambler's Fallacy**  
+### 5. Gambler's Fallacy
    - **What is it?** Believing that future events are influenced by past ones, even when they are independent.  
    - **Example:** Thinking a coin toss is "due" to land heads after several tails, even though each toss is random.
 
-### 6. **The contrast effect**  
+### 6. The contrast effect
    - **What is it?** Things are judged as more extreme when compared to something very different.  
    - **Example:** A small house feels larger when compared to a tiny apartment next to it.
 
-### 7. **Confirmation bias**
+### 7. Confirmation bias
    - **What is it?** We tend to search for, interpret, or remember information in a way that confirms our existing beliefs, while ignoring information that contradicts them.  
    - **Example:** If you believe a certain diet works, you'll focus on success stories and ignore evidence that contradicts it.
 
-### 8. **Loss aversion bias**
+### 8. Loss aversion bias
    - **What is it?** We feel the pain of losing something more intensely than the pleasure of gaining something of equal value.  
    - **Example:** You might avoid selling a stock at a small loss, even though it’s a good decision in the long run, because the loss feels worse than the potential gain feels good.
 
-### 9. **Ambiguity aversion**
+### 9. Ambiguity aversion
    - **What is it?** We tend to avoid options that are uncertain or unclear, even if those options might be beneficial.  
    - **Example:** Choosing a well-known brand over a new, less familiar one, even when the new brand might offer a better product.
 
-### 10. **Status quo bias**
+### 10. Status quo bias
    - **What is it?** We prefer things to stay the same, even if changing them would be beneficial.  
    - **Example:** Sticking with the same phone or software for years, even when newer, better options are available.
 
-### 11. **Endowment effect**
+### 11. Endowment effect
    - **What is it?** We place more value on things simply because we own them.  
    - **Example:** Feeling unwilling to sell an item for more than you originally paid for it, even if you don't need it anymore.
 
-### 12. **Omission-commission bias**
+### 12. Omission-commission bias
    - **What is it?** We tend to prefer inaction (omission) over action (commission) when faced with decisions that might lead to negative outcomes.  
    - **Example:** Not taking action or making a decision because you feel it's better to do nothing than risk making a mistake.
