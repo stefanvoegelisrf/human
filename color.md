@@ -9,6 +9,8 @@ Color is very important in design. It affects how users perceive and interact wi
   - [Testing color](#testing-color)
 
 
+---
+
 
 ## Color systems
 
@@ -18,6 +20,8 @@ Colors are represented and processed using different systems depending on the me
 - CMYK: Used for printing, based on cyan, magenta, yellow, and key (black) inks.
 
 Understanding these systems ensures accurate and consistent color representation across mediums.
+
+---
 
 ## Color impairments
 
@@ -29,6 +33,8 @@ Color impairments, such as color blindness, affect how people perceive colors. C
 
 Designs should avoid relying solely on color to convey meaning. Use labels, patterns, or textures as additional cues to ensure accessibility.
 
+---
+
 ## Different meanings of color in cultural contexts
 
 Colors hold different meanings across cultures. For example:
@@ -38,9 +44,13 @@ Colors hold different meanings across cultures. For example:
 
 When designing for a global audience, consider these cultural nuances to avoid misunderstandings or unintended symbolism.
 
+---
+
 ## Color contrast
 
 Contrast is crucial for readability and usability. Ensure sufficient contrast between text and background colors, especially for small text or critical information. Use tools like contrast checkers to meet accessibility standards, such as WCAG (Web Content Accessibility Guidelines).
+
+---
 
 ## Testing color
 

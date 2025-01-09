@@ -12,6 +12,7 @@ When humans or interfaces (like software or machines) interact, some form of com
   - [Feedback Techniques](#feedback-techniques)
   - [Improving Communication](#improving-communication)
 
+---
 
 ## Basics of communication
 
@@ -43,6 +44,8 @@ Communication always involves two roles:
 - **Decoding:** The receiver interprets and makes sense of the message based on their own knowledge, experience, and perspective.
 This process can introduce errors or misinterpretations if the sender and receiver have different contexts, cultural backgrounds, or levels of understanding.
 
+---
+
 ## Feedback Techniques
 
 - **Feedback Sandwich**: This involves giving feedback in a three-part structure: start with positive feedback, followed by constructive criticism, and end with more positive feedback. This technique helps soften the impact of negative feedback while still delivering important messages for improvement.
@@ -50,6 +53,8 @@ This process can introduce errors or misinterpretations if the sender and receiv
 - **Radical Candor**: This technique encourages giving feedback that is both direct and empathetic. It involves caring personally for the other person while challenging them directly. The goal is to be honest without being harsh or insincere.
   
 - **Avocado Toast**: A light-hearted feedback approach where you begin with something positive (the "avocado"), add the constructive feedback (the "toast"), and then end with something positive again (the "avocado"). It’s similar to the feedback sandwich but with a more relaxed and contemporary feel.
+
+---
 
 ## Improving Communication
 

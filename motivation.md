@@ -14,6 +14,8 @@ Motivation is a key part of the human - system interaction. Each person has a di
       - [Cultural Codes](#cultural-codes)
       - [Context-Specific Codes](#context-specific-codes)
 
+---
+
 ## What are our primary motivations?
 As humans, our primary motivations are:
 - Surviving
@@ -21,6 +23,8 @@ As humans, our primary motivations are:
 - Avoid pain
 - Seek pleasure
 - Preserve energy
+
+---
 
 ## Human needs
 
@@ -36,6 +40,8 @@ Maslow later added a **sixth level**, **self-transcendence**, focusing on altrui
 
 Our needs are always a balancing act between autonomy and belonging. Within autonomy, we have control, freedom and spontaneity. Wheres within belonging, we have can participate, harmonize and receive support. In between is a playing ground for us to have challenges, learn, be creative and play.
 
+---
+
 ## Stress factors
 
 We have several stress factors, which are:
@@ -46,6 +52,8 @@ We have several stress factors, which are:
 - **Sense of Control**: A perceived lack of control over circumstances heightens stress levels, as we feel powerless to influence or change outcomes, intensifying helplessness or frustration.  
 
 These factors collectively activate the body's stress response systems, including the hypothalamic-pituitary-adrenal (HPA) axis, and influence mental and physical well-being.
+
+---
 
 ## Dopamine and Motivation: The Role of Rewards and Habits  
 
@@ -61,6 +69,8 @@ To sustain motivation and maintain higher dopamine levels over time, certain pra
 4. **Finding joy in effort**, or enjoying the process itself, helps build lasting motivation.  
 
 These approaches balance short-term rewards with long-term habits, promoting healthier and more sustainable motivation.
+
+---
 
 ## Motivation & Design
 

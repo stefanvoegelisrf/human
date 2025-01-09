@@ -8,6 +8,7 @@
   - [Color](#color)
   - [Dark patterns](#dark-patterns)
   - [Communication](#communication)
+  - [Animation](#animation)
 
 ## What are human factors?
 
@@ -20,11 +21,15 @@ The graphic below illustrates what plays into the human – system interaction.
 
 ![Human system interaction](./images/human-system-interaction.jpg)
 
+---
+
 ## Mobile
 
 This section covers how users use mobile phones and best practices about mobile phone interaction.
 
 > [Mobile](mobile)
+
+---
 
 ## Motivation
 
@@ -32,11 +37,15 @@ This section covers the motivation of users and how we get to know it.
 
 > [Motivation](motivation)
 
+---
+
 ## Laws of UX
 
 This section covers the laws of UX which help to structure content, make interaction easier and more meaningful when designing.
 
 > [Laws of UX](laws-of-ux)
+
+---
 
 ## Color
 
@@ -44,14 +53,28 @@ This section describes that color in our interfaces should be chosen carefully b
 
 > [Color](color)
 
+---
+
 ## Dark patterns
 
 This section describes patterns that are often applied, but are unfriendly to the user.
 
 > [Dark patterns](dark-patterns)
 
+---
+
 ## Communication
 
 This section covers the basics of communcation, how to provide feedback and how to improve communication.
 
 > [Communication](communication)
+
+---
+
+## Animation
+
+This section covers how animations can improve the user experience.
+
+> [Animation](animation)
+
+---

@@ -1,8 +1,6 @@
 # Dark patterns
 Dark patterns are misleading practices that disrupt the user or have unexpected outcome.
 
-
-
 ## Common dark patterns
 
 - Repeated disruption

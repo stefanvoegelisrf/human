@@ -32,6 +32,7 @@ There are several "laws" to take into account when desigining interfaces to make
   - [Working Memory](#working-memory)
   - [Zeigarnik Effect](#zeigarnik-effect)
 
+---
 
 ## Aesthetic-Usability Effect
 
@@ -41,12 +42,16 @@ When design is aesthetic, users perceive it as more usable.
 - Users tend to ignore minor usability issues when it is aesthetic
 - It is possible that aesthetically pleasing design hides usability flaws
 
+---
+
 ## Chunking
 
 To make a lot of information easier to digest, it is split up into smaller parts and then grouped together.
 
 - Chunking allows users to quickly scan over content and identify what is most relevant for them to achieve their goals
 - Chunking allows to create clear hierarchy and support the user in evaluating and processing the content
+
+---
 
 ## Cognitive Bias
 
@@ -56,6 +61,8 @@ Human decisions and behaviors are influenced by biases, affecting user experienc
 - We need to be aware of our biases to better understand them and take them into consideration so that we don't blindly apply them which could lead to unintentional discrimination, false reasoning or costly mistakes
 - An example is the confirmation bias where we seek for validation about what we already know.
 
+---
+
 ## Cognitive load
 
 The cognitive load describes the amount of content we can consume at a time.
@@ -63,6 +70,8 @@ The cognitive load describes the amount of content we can consume at a time.
 - Too much load can overload us and make us overwhelmed and we also miss details.
 - Intrinsic cognitive load is the mental effort needed to understand and remember information that’s important to what we're trying to do.
 - Extraneous cognitive load is the extra mental effort caused by things that don't help us understand what we're doing, like confusing or unnecessary design features.
+
+---
 
 ## Doherty Threshold
 
@@ -73,12 +82,16 @@ When interaction is too slow between users and a system, the productivity decrea
 - Progress indicators can make wait times more tolerable, if they are also fun to watch, they can make it even more tolerable.
 - If something happens very fast, adding a delay can increase the perceived value of a process
 
+---
+
 ## Fitt's Law
 
 This describes how long it takes a user to reach a target. This duration increases with the distance and the size of the target.
 
 - Touch targets should be sized accurately and have good spacing in between
 - Touch targets should be place where they can be easily reached
+
+---
 
 ## Flow
 
@@ -89,11 +102,15 @@ Flow is a mental state where we are fully focused and involved in an activity.
 - Indicate progress to the user to the user has feedback on what has been achieved.
 - Optimize interfaces for efficiency to remove friction
 
+---
+
 ## Goal Gradient Effect
 
 The goal gradient effect describes that we work faster towards a goal, the closer we get to it.
 
 - Artificial progress can be provided so that users have more motivation to reach the goal
+
+---
 
 ## Hick's Law
 
@@ -105,6 +122,8 @@ Hick's law describes that it takes us more time to make a decision when we an in
 - Use progressive onboarding to avoid overloading users.
 - Don't simplify until it gets too abstract
 
+---
+
 ## Jakob's Law
 
 Jakob's law describes that users are accustomed for things to work in a certain way, which they are used from other places, so we should not confuse them with other patterns.
@@ -113,11 +132,15 @@ Jakob's law describes that users are accustomed for things to work in a certain 
 - By applying already known patterns, we can create better experiences instead of users having to learn new patterns.
 - When known patterns are changed, allow users to transition to the new patterns slowly. They can use it the old way for a limited amount of time and should slowly get used to the new way of doing things.
 
+---
+
 ## Law of Common Region
 
 When items are inside clear boundaries, they are perceived to belong together.
 
 - By defining clear boundaries(e.g. borders, background), we can add hierarchy and show the relationship of elements.
+
+---
 
 ## Law of Proximity
 
@@ -126,6 +149,8 @@ Users tend to think that items that are close to each other, belong to each othe
 - Elements that are near to each other are perceived to work the same way and have the same properties
 - Proximity helps to organize content and increase efficiency
 
+---
+
 ## Law of Prägnanz
 
 Users will abstract complex forms to their simplest form possible as it requires less effort.
@@ -133,17 +158,23 @@ Users will abstract complex forms to their simplest form possible as it requires
 - The brain likes to simplify as this reduces the chance to get overwhelmed.
 - Simpler shapes are easier to recognize than complex shapes.
 
+---
+
 ## Law of Similarity
 
 When elements look similar, they appear to have a relationship to each other, even if they are separated.
 
 - Color, shape and size are indicators that elements share the same properties, are related to each other or have the same kind of functionality
 
+---
+
 ## Law of Uniform Connectedness
 
 When elements are connected to each other, they appear related.
 
 - Use groups for functions of the same category by using color, lines, frames or other shapes. We can also use line that lead to the next element to show a connection.
+
+---
 
 ## Mental Model
 
@@ -154,12 +185,16 @@ Our brains make a mental model of an how an interface works based on what we kno
 - When we provide an interface that is similar to others, we create good user experiences as the user is already accustomed to a lot of similar interfaces.
 - Mental models are different for different kinds of users. We need to get to know the mental model of our users.
 
+---
+
 ## Miller's Law
 
 Users can keep 7 items in their memory on average.
 
 - Don't focus too heavily on this limitation to create artificial limitation.
 - Organize content into chunks to increase the ability to process information.
+
+---
 
 ## Occam's Razor
 
@@ -169,11 +204,15 @@ When choosing between explanations that work equally well, pick the one that’s
 - Break things down and remove anything unnecessary, as long as it still works properly.
 - Aim to finish only when there’s nothing left to take away.
 
+---
+
 ## Paradox of the Active User
 
 Users won't start by reading a long documentation or manual, they will start using the interfaces immediately.
 
 - Add guidance throughout the system so that users can discover the functionality and get better over time.
+
+---
 
 ## Pareto Principle
 
@@ -183,6 +222,8 @@ The Pareto principle says that 80% of results often come from just 20% of the wo
 - A small part of the work often creates most of the success.
 - Focus your energy on the tasks that make the biggest impact.
 
+---
+
 ## Parkinson's Law
 
 Work tends to take as long as the time you give it.
@@ -190,6 +231,8 @@ Work tends to take as long as the time you give it.
 - Set a time limit that matches what users expect for the task.
 - Finishing faster than expected makes the experience better for users.
 - Use tools like autofill to save time on forms and help users finish tasks quickly, like making purchases or bookings.
+
+---
 
 ## Peak-End Rate
 
@@ -199,6 +242,8 @@ Users judge an experience on how it felt at its peak or end rather than the over
 - Identify when the product is most helpful, valuable or entertaining to delight the user in these momemnts.
 - Negative events are more present than positive ones.
 
+---
+
 ## Postel's Law
 
 Be flexible in what you take in but careful with what you send out.
@@ -207,6 +252,8 @@ Be flexible in what you take in but careful with what you send out.
 - Plan for different inputs and situations while keeping your design easy to use and reliable.
 - Accept a range of user inputs, adapt them to work with your system, set clear rules, and give helpful feedback.
 
+---
+
 ## Selective Attention
 
 We focus mostly on what leads us towards our goal, ignoring other elements.
@@ -214,12 +261,16 @@ We focus mostly on what leads us towards our goal, ignoring other elements.
 - People ignore information that is irrelevant for them to reach their current goal. Guide the users and avoid overwhelming them.
 - Elements that are similar to ads tend to be ignored as users have learned to ignore them. E.g. Banners
 
+---
+
 ## Serial Position Effect
 
 First and last elements are remembered the best.
 
 - Items of less importance are best placed in the middle, as they are not memorized that easily.
 - Positioning elements of big importance on the left or right(e.g. navigation) helps users to memorize them.
+
+---
 
 ## Tesler's Law
 
@@ -230,6 +281,8 @@ Tesler's law describes that for any system, there is some kind of complexity whi
 - Don’t assume users will always act logically—design for real people.
 - Provide clear and helpful guidance, like tooltips, to assist users no matter how they navigate your system.
 
+---
+
 ## Von Restorff Effect
 
 The Von Restorff effect says people remember the thing that stands out the most.
@@ -239,6 +292,8 @@ The Von Restorff effect says people remember the thing that stands out the most.
 - Don’t rely only on color to show differences—make sure everyone, including those with vision challenges, can see the contrast.
 - Be mindful of users sensitive to motion if using movement to emphasize something.
 
+---
+
 ## Working Memory
 
 Working memory helps us hold and use information briefly to complete tasks, but it’s limited.
@@ -247,6 +302,8 @@ Working memory helps us hold and use information briefly to complete tasks, but 
 - Designers should keep information simple, necessary, and easy to process.
 - People are better at recognizing things they’ve seen than remembering new details. Help users by showing what they’ve already viewed (e.g., visited link colors or breadcrumbs).
 - Let the system remember important details for the user, like carrying data across screens or using comparison tables.
+
+---
 
 ## Zeigarnik Effect
 
