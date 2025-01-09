@@ -11,6 +11,7 @@
   - [Animation](#animation)
   - [Interaction design patterns](#interaction-design-patterns)
   - [Accessibility](#accessibility)
+  - [Cognitive psychology](#cognitive-psychology)
 
 ## What are human factors?
 
@@ -94,3 +95,9 @@ This section cover common ui patterns, minimal viable product, minimal lovable p
 This section covers why and how we can make interfaces accessible to many different user groups.
 
 > [Accessibility](accessibility)
+
+## Cognitive psychology
+
+This section covers how we perceive information, how we can add structure, how to tell stories and what cognitive biases we have.
+
+> [Cognitive psychology](cognitive-psychology)

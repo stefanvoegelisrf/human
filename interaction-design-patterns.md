@@ -2,6 +2,8 @@
 
 User Interface Design patterns are recurring solutions that solve common design problems.
 
+---
+
 - [Interaction design patterns](#interaction-design-patterns)
   - [UI patterns](#ui-patterns)
   - [Atomic design](#atomic-design)

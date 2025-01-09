@@ -1,6 +1,8 @@
 # Animation
 Animations can help guide the users and delight them.
 
+---
+
 - [Animation](#animation)
     - [Clear Transitions for Better User Guidance](#clear-transitions-for-better-user-guidance)
     - [Feedback Loops That Inform and Delight](#feedback-loops-that-inform-and-delight)

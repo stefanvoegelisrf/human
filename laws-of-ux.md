@@ -1,6 +1,8 @@
 # Laws of UX
 There are several "laws" to take into account when desigining interfaces to make them more usable.
 
+---
+
 - [Laws of UX](#laws-of-ux)
   - [Aesthetic-Usability Effect](#aesthetic-usability-effect)
   - [Chunking](#chunking)

@@ -2,6 +2,8 @@
 
 When humans or interfaces (like software or machines) interact, some form of communication is always involved. Communication is the process of exchanging information, ideas, or feelings, which involves several key elements and factors.
 
+---
+
 - [Communication](#communication)
   - [Basics of communication](#basics-of-communication)
     - [1. **Cultural Context**](#1-cultural-context)

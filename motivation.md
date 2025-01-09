@@ -1,6 +1,8 @@
 # Motivation
 Motivation is a key part of the human - system interaction. Each person has a different motivation to use a system and it is very important to get to know, what motivation our users could have.
 
+---
+
 - [Motivation](#motivation)
   - [What are our primary motivations?](#what-are-our-primary-motivations)
   - [Human needs](#human-needs)

@@ -1,6 +1,8 @@
 # Color
 Color is very important in design. It affects how users perceive and interact with a product. However, color is perceived differently in various cultural contexts, and there are also several color impairments and color combinations to consider. Using color thoughtfully ensures accessibility and improves the user experience.
 
+---
+
 - [Color](#color)
   - [Color systems](#color-systems)
   - [Color impairments](#color-impairments)

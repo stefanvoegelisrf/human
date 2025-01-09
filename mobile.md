@@ -1,6 +1,8 @@
 # Mobile
 Designing for mobile is very important as more than 60% of todays web-interactions happen through a mobile interface.
 
+---
+
 - [Mobile](#mobile)
   - [How people interact with mobile phones](#how-people-interact-with-mobile-phones)
   - [Best practices for designing for mobile](#best-practices-for-designing-for-mobile)
