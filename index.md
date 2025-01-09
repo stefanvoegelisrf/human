@@ -9,6 +9,8 @@
   - [Dark patterns](#dark-patterns)
   - [Communication](#communication)
   - [Animation](#animation)
+  - [Interaction design patterns](#interaction-design-patterns)
+  - [Accessibility](#accessibility)
 
 ## What are human factors?
 
@@ -78,3 +80,14 @@ This section covers how animations can improve the user experience.
 > [Animation](animation)
 
 ---
+
+## Interaction design patterns
+
+This section cover common ui patterns, minimal viable product, minimal lovable product and usability patterns
+
+> [Interaction design patterns](interaction-design-patterns)
+
+---
+
+## Accessibility
+
