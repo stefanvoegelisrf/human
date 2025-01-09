@@ -6,6 +6,13 @@ User Interface Design patterns are recurring solutions that solve common design 
 
 - [Interaction design patterns](#interaction-design-patterns)
   - [UI patterns](#ui-patterns)
+    - [Best practices](#best-practices)
+      - [Pop-up or light-box](#pop-up-or-light-box)
+      - [Drawers](#drawers)
+      - [Accordions](#accordions)
+      - [Tabs](#tabs)
+      - [Scrollytelling](#scrollytelling)
+      - [New pages](#new-pages)
   - [Atomic design](#atomic-design)
   - [Minimal viable/lovable product](#minimal-viablelovable-product)
   - [5 Key Principles of Usability](#5-key-principles-of-usability)
@@ -15,6 +22,54 @@ User Interface Design patterns are recurring solutions that solve common design 
 ## UI patterns
 
 > See: [ui-patterns.com - Patterns](https://ui-patterns.com/patterns)
+
+### Best practices
+
+#### Pop-up or light-box
+| Pro                                     | Contra                                                   |
+| --------------------------------------- | -------------------------------------------------------- |
+| provides context                        | Users can forget what they clicked on to open the pop-up |
+| easy to implement                       | Scrolling is hard                                        |
+| whole space can be dedicated to content | Used too often, often ignored                            |
+
+#### Drawers
+
+| Pro                                                                | Contra                   |
+| ------------------------------------------------------------------ | ------------------------ |
+| Context is preserved, as the drawer is smaller as the whole screen | Not easy to find         |
+| Users are used to search in folders for more content               | Fixed position necessary |
+|                                                                    | Accurate title necessary |
+
+#### Accordions
+
+| Pro                                           | Contra                                                |
+| --------------------------------------------- | ----------------------------------------------------- |
+| Clear hierarchical list                       | Not ideal for long text                               |
+| Easier to use on mobile in comparison to tabs | Only one open accordion panel should be allowed       |
+| Content is accessible on demand               | Not ideal for SEO, can't be found when using a search |
+
+#### Tabs
+
+| Pro                                                             | Contra                                 |
+| --------------------------------------------------------------- | -------------------------------------- |
+| Easy to understand                                              | Only short text for tab title possible |
+| Good solution for elements of same importance                   | Limited amount of tabs                 |
+| Works best on top of an interface, not in the middle of content | First tab has to be default tab        |
+
+#### Scrollytelling
+
+| Pro                                            | Contra                                                           |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| Scrolling is the simplest interaction possible | If navigation is not sticky, users have to scroll all the way up |
+| Content is the navigation                      |                                                                  |
+| Good performance                               |                                                                  |
+
+#### New pages
+
+| Pro                                         | Contra                                |
+| ------------------------------------------- | ------------------------------------- |
+| Browser back button is very widely accepted | Separate pages can break the workflow |
+| Pages are very flexible                     | Opening new pages can impact speed    |
 
 ---
 
