@@ -8,10 +8,10 @@ Motivation is a key part of the human - system interaction. Each person has a di
   - [Human needs](#human-needs)
   - [Stress factors](#stress-factors)
   - [Dopamine and Motivation: The Role of Rewards and Habits](#dopamine-and-motivation-the-role-of-rewards-and-habits)
-  - [Motivation \& Design](#motivation--design)
+  - [Motivation and Design](#motivation-and-design)
     - [Storyboarding](#storyboarding)
     - [Hook Model](#hook-model)
-    - [Patterns \& Codes](#patterns--codes)
+    - [Patterns and Codes](#patterns-and-codes)
       - [Design Patterns](#design-patterns)
       - [Cultural Codes](#cultural-codes)
       - [Context-Specific Codes](#context-specific-codes)
@@ -74,7 +74,7 @@ These approaches balance short-term rewards with long-term habits, promoting hea
 
 ---
 
-## Motivation & Design
+## Motivation and Design
 
 In designing for humans, we need to get to know the motivation of our users and how to apply this to our system or product. We can use several techniques which are explained below.
 
@@ -98,7 +98,7 @@ The Hook Model helps us design systems that keep users coming back by leveraging
 
 This model is especially useful when we aim to align user motivations with system actions, making the experience more engaging and user-centric.
 
-### Patterns & Codes
+### Patterns and Codes
 
 In design, **patterns** and **codes** refer to established conventions, behaviors, and visual cues that users have learned over time and expect to encounter in various systems. These patterns and codes help users understand how to interact with a product or system without needing to relearn basic concepts. By aligning our design with these familiar patterns, we can create intuitive and user-friendly experiences.
 

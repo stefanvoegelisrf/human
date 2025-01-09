@@ -21,4 +21,3 @@ Dark patterns are misleading practices that disrupt the user or have unexpected 
   - Shaming users to opt-out
 - Confirmsharing
   - Making the user click on something that tells them that they are missing out on a really good offer, giving them the impression that they make a bad decision.
-- 
