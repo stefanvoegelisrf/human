@@ -6,11 +6,11 @@ When humans or interfaces (like software or machines) interact, some form of com
 
 - [Communication](#communication)
   - [Basics of communication](#basics-of-communication)
-    - [1. **Cultural Context**](#1-cultural-context)
-    - [2. **Situational Context**](#2-situational-context)
-    - [3. **Relationships**](#3-relationships)
-    - [4. **Sender and Receiver**](#4-sender-and-receiver)
-    - [5. **Encoding and Decoding**](#5-encoding-and-decoding)
+    - [1. Cultural Context](#1-cultural-context)
+    - [2. Situational Context](#2-situational-context)
+    - [3. Relationships](#3-relationships)
+    - [4. Sender and Receiver](#4-sender-and-receiver)
+    - [5. Encoding and Decoding](#5-encoding-and-decoding)
   - [Feedback Techniques](#feedback-techniques)
   - [Improving Communication](#improving-communication)
 
@@ -18,30 +18,30 @@ When humans or interfaces (like software or machines) interact, some form of com
 
 ## Basics of communication
 
-### 1. **Cultural Context**
+### 1. Cultural Context
 Communication doesn’t happen in isolation — it is influenced by the culture in which it occurs. Culture shapes how people express themselves, interpret messages, and interact with others. For example:
 - Some cultures value direct communication, while others prefer indirect or subtle messages.
 - Gestures, tone of voice, and even silence can have different meanings in different cultures.
 When communicating, it’s important to consider these cultural characteristics to avoid misunderstandings and ensure effective interaction.
 
-### 2. **Situational Context**
+### 2. Situational Context
 Communication also occurs in a specific situation or context, which affects how messages are sent and received. Context includes:
 - **Physical setting:** Are you in a formal meeting, a casual chat, or an online interface?
 - **Emotional environment:** Are the participants feeling calm, stressed, or excited?
 - **Purpose:** Is the goal to inform, persuade, entertain, or resolve conflict?
 
-### 3. **Relationships**
+### 3. Relationships
 The nature of the relationship between the participants influences communication. For instance:
 - **Formal relationships:** Interactions between a manager and an employee might be more structured and respectful.
 - **Informal relationships:** Friends or family members may communicate casually and emotionally.
 Understanding the dynamics of the relationship helps tailor communication to fit the situation.
 
-### 4. **Sender and Receiver**
+### 4. Sender and Receiver
 Communication always involves two roles:
 - **Sender:** The person or entity creating and delivering the message.
 - **Receiver:** The person or entity interpreting and responding to the message.
 
-### 5. **Encoding and Decoding**
+### 5. Encoding and Decoding
 - **Encoding:** The sender converts their thoughts, ideas, or feelings into a message that can be understood, such as words, gestures, or images.
 - **Decoding:** The receiver interprets and makes sense of the message based on their own knowledge, experience, and perspective.
 This process can introduce errors or misinterpretations if the sender and receiver have different contexts, cultural backgrounds, or levels of understanding.
