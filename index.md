@@ -16,6 +16,7 @@
   - [Behavioral change](#behavioral-change)
   - [Memory](#memory)
   - [Attention](#attention)
+  - [Visual system](#visual-system)
 
 ## What are human factors?
 
@@ -129,3 +130,7 @@ This section covers the long- and short-term memory and how we remember things a
 This section covers properties and types of attention, how colors grab attention and attention in relation to processing information.
 
 > [Attention](attention)
+
+## Visual system
+
+> [Visual system](visual-system)
