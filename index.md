@@ -14,6 +14,7 @@
   - [Cognitive psychology](#cognitive-psychology)
   - [Design of everyday things](#design-of-everyday-things)
   - [Behavioral change](#behavioral-change)
+  - [Memory](#memory)
 
 ## What are human factors?
 
@@ -115,3 +116,8 @@ This section the conceptual model, affordances, signifiers, mappings and feedbac
 This section how habits are formed and how to achieve long term habits.
 
 > [Behavioral change](behavioral-change)
+
+## Memory
+This section covers the long- and short-term memory and how we remember things and how to use this knowledge for creating interfaces.
+
+> [Memory](memory)
