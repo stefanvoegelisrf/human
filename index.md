@@ -2,31 +2,35 @@
 
 - [Human Factors in Digital Design](#human-factors-in-digital-design)
   - [What are human factors?](#what-are-human-factors)
-  - [Mobile](#mobile)
-  - [Motivation](#motivation)
-  - [Laws of UX](#laws-of-ux)
-  - [Color](#color)
-  - [Dark patterns](#dark-patterns)
-  - [Communication](#communication)
-  - [Animation](#animation)
-  - [Interaction design patterns](#interaction-design-patterns)
-  - [Accessibility](#accessibility)
-  - [Cognitive psychology](#cognitive-psychology)
-  - [Design of everyday things](#design-of-everyday-things)
-  - [Behavioral change](#behavioral-change)
-  - [Memory](#memory)
-  - [Attention](#attention)
-  - [Visual system](#visual-system)
-  - [Learning](#learning)
-  - [Hardware](#hardware)
-  - [Auditive system](#auditive-system)
-  - [Tactile system](#tactile-system)
-  - [Vestibular system](#vestibular-system)
-  - [Olfactory system](#olfactory-system)
-  - [Gustatory system](#gustatory-system)
-  - [Thermoreception](#thermoreception)
-  - [Nociception](#nociception)
-  - [Proprioception](#proprioception)
+  - [Psychological Aspects](#psychological-aspects)
+    - [Cognitive psychology](#cognitive-psychology)
+    - [Memory](#memory)
+    - [Attention](#attention)
+    - [Learning](#learning)
+    - [Motivation](#motivation)
+    - [Behavioral change](#behavioral-change)
+  - [Human Sensory Systems](#human-sensory-systems)
+    - [Visual system](#visual-system)
+    - [Auditive system](#auditive-system)
+    - [Tactile system](#tactile-system)
+    - [Vestibular system](#vestibular-system)
+    - [Olfactory system](#olfactory-system)
+    - [Gustatory system](#gustatory-system)
+    - [Thermoreception](#thermoreception)
+    - [Nociception](#nociception)
+    - [Proprioception](#proprioception)
+  - [Design Principles and Practices](#design-principles-and-practices)
+    - [Laws of UX](#laws-of-ux)
+    - [Color](#color)
+    - [Communication](#communication)
+    - [Animation](#animation)
+    - [Interaction design patterns](#interaction-design-patterns)
+    - [Accessibility](#accessibility)
+    - [Design of everyday things](#design-of-everyday-things)
+  - [Digital Design Challenges](#digital-design-challenges)
+    - [Mobile](#mobile)
+    - [Dark patterns](#dark-patterns)
+    - [Hardware](#hardware)
 
 ## What are human factors?
 
@@ -41,168 +45,171 @@ The graphic below illustrates what plays into the human – system interaction.
 
 ---
 
-## Mobile
+## Psychological Aspects
 
-This section covers how users use mobile phones and best practices about mobile phone interaction.
+These topics deal with the mental processes that influence how users interact with digital products. They are essential for understanding user behavior, preferences, and decision-making.
 
-> [Mobile](mobile)
-
----
-
-## Motivation
-
-This section covers the motivation of users and how we get to know it.
-
-> [Motivation](motivation)
-
----
-
-## Laws of UX
-
-This section covers the laws of UX which help to structure content, make interaction easier and more meaningful when designing.
-
-> [Laws of UX](laws-of-ux)
-
----
-
-## Color
-
-This section describes that color in our interfaces should be chosen carefully by taking into account impairments and cultural contexts.
-
-> [Color](color)
-
----
-
-## Dark patterns
-
-This section describes patterns that are often applied, but are unfriendly to the user.
-
-> [Dark patterns](dark-patterns)
-
----
-
-## Communication
-
-This section covers the basics of communcation, how to provide feedback and how to improve communication.
-
-> [Communication](communication)
-
----
-
-## Animation
-
-This section covers how animations can improve the user experience.
-
-> [Animation](animation)
-
----
-
-## Interaction design patterns
-
-This section cover common ui patterns, minimal viable product, minimal lovable product and usability patterns
-
-> [Interaction design patterns](interaction-design-patterns)
-
----
-
-## Accessibility
-
-This section covers why and how we can make interfaces accessible to many different user groups.
-
-> [Accessibility](accessibility)
-
-## Cognitive psychology
+### Cognitive psychology
 
 This section covers how we perceive information, how we can add structure, how to tell stories and what cognitive biases we have.
 
 > [Cognitive psychology](cognitive-psychology)
 
-## Design of everyday things
-
-This section the conceptual model, affordances, signifiers, mappings and feedback which are essential for designing everyday things.
-
-> [Design of everyday things](design-of-everyday-things)
-
-## Behavioral change
-
-This section how habits are formed and how to achieve long term habits.
-
-> [Behavioral change](behavioral-change)
-
-## Memory
+### Memory
 
 This section covers the long- and short-term memory and how we remember things and how to use this knowledge for creating interfaces.
 
 > [Memory](memory)
 
-## Attention
+### Attention
 
 This section covers properties and types of attention, how colors grab attention and attention in relation to processing information.
 
 > [Attention](attention)
 
-## Visual system
-
-This section covers the basics of our visual system and design considerations for the visual system.
-
-> [Visual system](visual-system)
-
-## Learning
+### Learning
 
 This section covers what learning is, what it involves and how it works. It also explores important derivations for design and gamification.
 
 > [Learning](learning)
 
-## Hardware
+### Motivation
 
-This section covers the basics of hardware, how to use a humand-centered design process for hardware design and other design considerations for hardware.
+This section covers the motivation of users and how we get to know it.
 
-> [Hardware](hardware)
+> [Motivation](motivation)
 
-## Auditive system
+### Behavioral change
+
+This section how habits are formed and how to achieve long term habits.
+
+> [Behavioral change](behavioral-change)
+
+
+## Human Sensory Systems
+
+These topics focus on how human sensory systems impact the way users experience and interact with digital environments, covering sight, sound, touch, balance, and other senses.
+
+### Visual system
+
+This section covers the basics of our visual system and design considerations for the visual system.
+
+> [Visual system](visual-system)
+
+### Auditive system
 
 This section covers the basics of hearing, its limitation and derivations for design.
 
 > [Auditive system](auditive-system)
 
-## Tactile system
+### Tactile system
 
 This section covers how the sense of touch works, its impairments and derivations for design.
 
 > [Tactile system](tactile-system)
 
-## Vestibular system
+### Vestibular system
 
 This section covers how the sense of balance works, provides examples and derivations for design.
 
 > [Vestibular system](vestbular-system)
 
-## Olfactory system
+### Olfactory system
 
 This section covers how the sense of smell works, provides examples and derivations for design.
 
 > [Olfactory system](olfactory-system)
 
-## Gustatory system
+### Gustatory system
 
 This section covers how the sense of taste works, provides examples and derivations for design.
 
 > [Gustatory system](gustatory-system)
 
-## Thermoreception
+### Thermoreception
 
 This section covers how the sense of temperature works, provides examples and derivations for design.
 
 > [Thermoreception](thermoreception)
 
-## Nociception
+### Nociception
 
 This section covers how the sense of pain works, provides examples and derivations for design.
 
 > [Nociception](nociception)
 
-## Proprioception
+### Proprioception
 
 This section covers how the sense of body movement works, provides examples and derivations for design.
 
 > [Nociception](nociception)
+   
+
+## Design Principles and Practices
+
+These are core principles and practices in user experience (UX) design, which aim to create user-friendly and inclusive designs that cater to the needs of users.
+
+### Laws of UX
+
+This section covers the laws of UX which help to structure content, make interaction easier and more meaningful when designing.
+
+> [Laws of UX](laws-of-ux)
+
+### Color
+
+This section describes that color in our interfaces should be chosen carefully by taking into account impairments and cultural contexts.
+
+> [Color](color)
+
+### Communication
+
+This section covers the basics of communcation, how to provide feedback and how to improve communication.
+
+> [Communication](communication)
+
+### Animation
+
+This section covers how animations can improve the user experience.
+
+> [Animation](animation)
+
+### Interaction design patterns
+
+This section cover common ui patterns, minimal viable product, minimal lovable product and usability patterns
+
+> [Interaction design patterns](interaction-design-patterns)
+
+### Accessibility
+
+This section covers why and how we can make interfaces accessible to many different user groups.
+
+> [Accessibility](accessibility)
+
+### Design of everyday things
+
+This section the conceptual model, affordances, signifiers, mappings and feedback which are essential for designing everyday things.
+
+> [Design of everyday things](design-of-everyday-things)
+
+## Digital Design Challenges
+
+These topics address challenges faced by designers in the digital realm, such as ethical concerns (dark patterns), mobile-specific design constraints, and the influence of hardware in shaping user interactions.
+
+### Mobile
+
+This section covers how users use mobile phones and best practices about mobile phone interaction.
+
+> [Mobile](mobile)
+
+### Dark patterns
+
+This section describes patterns that are often applied, but are unfriendly to the user.
+
+> [Dark patterns](dark-patterns)
+
+### Hardware
+
+This section covers the basics of hardware, how to use a humand-centered design process for hardware design and other design considerations for hardware.
+
+> [Hardware](hardware)
+
