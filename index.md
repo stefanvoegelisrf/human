@@ -18,6 +18,15 @@
   - [Attention](#attention)
   - [Visual system](#visual-system)
   - [Learning](#learning)
+  - [Hardware](#hardware)
+  - [Auditive system](#auditive-system)
+  - [Tactile system](#tactile-system)
+  - [Vestibular system](#vestibular-system)
+  - [Olfactory system](#olfactory-system)
+  - [Gustatory system](#gustatory-system)
+  - [Thermoreception](#thermoreception)
+  - [Nociception](#nociception)
+  - [Proprioception](#proprioception)
 
 ## What are human factors?
 
@@ -143,3 +152,57 @@ This section covers the basics of our visual system and design considerations fo
 This section covers what learning is, what it involves and how it works. It also explores important derivations for design and gamification.
 
 > [Learning](learning)
+
+## Hardware
+
+This section covers the basics of hardware, how to use a humand-centered design process for hardware design and other design considerations for hardware.
+
+> [Hardware](hardware)
+
+## Auditive system
+
+This section covers the basics of hearing, its limitation and derivations for design.
+
+> [Auditive system](auditive-system)
+
+## Tactile system
+
+This section covers how the sense of touch works, its impairments and derivations for design.
+
+> [Tactile system](tactile-system)
+
+## Vestibular system
+
+This section covers how the sense of balance works, provides examples and derivations for design.
+
+> [Vestibular system](vestbular-system)
+
+## Olfactory system
+
+This section covers how the sense of smell works, provides examples and derivations for design.
+
+> [Olfactory system](olfactory-system)
+
+## Gustatory system
+
+This section covers how the sense of taste works, provides examples and derivations for design.
+
+> [Gustatory system](gustatory-system)
+
+## Thermoreception
+
+This section covers how the sense of temperature works, provides examples and derivations for design.
+
+> [Thermoreception](thermoreception)
+
+## Nociception
+
+This section covers how the sense of pain works, provides examples and derivations for design.
+
+> [Nociception](nociception)
+
+## Proprioception
+
+This section covers how the sense of body movement works, provides examples and derivations for design.
+
+> [Nociception](nociception)
