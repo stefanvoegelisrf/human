@@ -112,7 +112,7 @@ This section covers how the sense of touch works, its impairments and derivation
 
 This section covers how the sense of balance works, provides examples and derivations for design.
 
-> [Vestibular system](vestbular-system)
+> [Vestibular system](vestibular-system)
 
 ### Olfactory system
 
