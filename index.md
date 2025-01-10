@@ -17,6 +17,7 @@
   - [Memory](#memory)
   - [Attention](#attention)
   - [Visual system](#visual-system)
+  - [Learning](#learning)
 
 ## What are human factors?
 
@@ -133,4 +134,12 @@ This section covers properties and types of attention, how colors grab attention
 
 ## Visual system
 
+This section covers the basics of our visual system and design considerations for the visual system.
+
 > [Visual system](visual-system)
+
+## Learning
+
+This section covers what learning is, what it involves and how it works. It also explores important derivations for design and gamification.
+
+> [Learning](learning)
