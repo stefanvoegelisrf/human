@@ -85,6 +85,7 @@ This section how habits are formed and how to achieve long term habits.
 
 > [Behavioral change](behavioral-change)
 
+---
 
 ## Human Sensory Systems
 
@@ -143,7 +144,8 @@ This section covers how the sense of pain works, provides examples and derivatio
 This section covers how the sense of body movement works, provides examples and derivations for design.
 
 > [Nociception](nociception)
-   
+
+---
 
 ## Design Principles and Practices
 
@@ -190,6 +192,8 @@ This section covers why and how we can make interfaces accessible to many differ
 This section the conceptual model, affordances, signifiers, mappings and feedback which are essential for designing everyday things.
 
 > [Design of everyday things](design-of-everyday-things)
+
+---
 
 ## Digital Design Challenges
 
