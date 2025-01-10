@@ -143,7 +143,7 @@ This section covers how the sense of pain works, provides examples and derivatio
 
 This section covers how the sense of body movement works, provides examples and derivations for design.
 
-> [Nociception](nociception)
+> [Proprioception](proprioception)
 
 ---
 
