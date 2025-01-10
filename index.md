@@ -13,6 +13,7 @@
   - [Accessibility](#accessibility)
   - [Cognitive psychology](#cognitive-psychology)
   - [Design of everyday things](#design-of-everyday-things)
+  - [Behavioral change](#behavioral-change)
 
 ## What are human factors?
 
@@ -108,3 +109,9 @@ This section covers how we perceive information, how we can add structure, how t
 This section the conceptual model, affordances, signifiers, mappings and feedback which are essential for designing everyday things.
 
 > [Design of everyday things](design-of-everyday-things)
+
+## Behavioral change
+
+This section how habits are formed and how to achieve long term habits.
+
+> [Behavioral change](behavioral-change)
